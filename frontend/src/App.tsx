@@ -1,8 +1,8 @@
 import { BrowserRouter, Route, Routes, Link } from 'react-router-dom';
 import './App.css';
-import Register from '/home/user/shopping/chat-app/src/components/Register';
-import Login from '/home/user/shopping/chat-app/src/components/Login';
-import Chat from '/home/user/shopping/chat-app/src/components/Chat';
+import Register from './components/Register';
+import Login from './components/Login';
+import Chat from './components/Chat';
 
 function App() {
   return (
